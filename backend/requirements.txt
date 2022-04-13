@@ -1,0 +1,7 @@
+django
+django-rest-framework
+django-dotenv
+mysqlclient
+uuid
+drf_yasg
+django-cors-headers
